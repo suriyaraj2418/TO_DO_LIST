@@ -1,0 +1,30 @@
+.outerbody{
+    background-color:#FFEBD9 ;
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.innerbody{
+    background-color:#FFC8BD ;
+    padding: 20px;
+    height:auto;
+     width:auto; 
+     display: flex;
+     justify-content: center;
+     align-items: center; 
+     border-radius: 10px;
+     box-shadow:5px 5px 5px 5px;
+      
+}
+.Tasklist{
+    margin: 10px;
+    display: flex;
+}
+#tasklist{
+    padding: 10px;
+}
+.tasklist{
+    padding-right: 10px;
+}
